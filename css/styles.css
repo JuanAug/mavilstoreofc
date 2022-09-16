@@ -359,14 +359,14 @@ header .right .imagem img{
 
 #about .box h2{
     margin-top: 40px;
-    text-align: start;
+    text-align: center;
     font-weight: 300;
 }
 
 #about .box p, span{
-    margin-right: 80px;
+    margin-right: 00px;
     margin-bottom: 20px;
-    text-align: start;
+    text-align: center;
     font-weight: 500;
     font-size: 14px;
     font-style: italic;
@@ -382,6 +382,7 @@ header .right .imagem img{
     bottom: 35px;
     left: 180px;
     font-size: 20px;
+    cursor: pointer;
 }
 
 /* SERVICE */
@@ -644,6 +645,10 @@ footer .container p{
         height: 150px;
     }
 
+    footer .container img{
+        width: 20%;
+    }
+
    /* footer .container p{
         margin-top: 30px;
     }*/
@@ -726,7 +731,7 @@ footer .container p{
     }
 
     #contact .container .left .box h1{
-        margin-bottom: 15px;
+        margin-bottom: 0px;
         margin-top: 15px;
         font-size: 18px;
     }
@@ -772,7 +777,7 @@ footer .container p{
     }
 
     #contact .container .right .box .text p{
-        font-size: 16px;
+        font-size: 13px;
     }
 }
 
